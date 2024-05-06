@@ -1,5 +1,5 @@
-PG_BIN="C:\Program Files\PostgreSQL\13\bin\psql.exe"
-PG_RES="C:\Program Files\PostgreSQL\13\bin\pg_restore.exe"
+PG_BIN="C:\Program Files\PostgreSQL\14\bin\psql.exe"
+PG_RES="C:\Program Files\PostgreSQL\14\bin\pg_restore.exe"
 DB_NAME=signapros
 USER=postgres
 PGPASSWORD=admin
